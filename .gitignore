@@ -1,0 +1,16 @@
+*.lib
+*.dll
+*.obj
+*.pdb
+*.log
+*.tlog
+UpgradeLog*.htm
+*.iobj
+*.ipdb
+*.zip
+*.res
+*.pch
+*.db*
+*.exe
+*.exp
+.vs
