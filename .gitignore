@@ -14,3 +14,7 @@ UpgradeLog*.htm
 *.exe
 *.exp
 .vs
+*.idb
+*.ilk
+*.sbr
+*.bsc
